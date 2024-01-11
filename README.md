@@ -1,5 +1,6 @@
 Basic song recommendation Jupyter Notebook based on song metrics and similarity to specified song. 
 
+[Dataset here](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
 ---
 
 Executable Jupyter Notebook here:
